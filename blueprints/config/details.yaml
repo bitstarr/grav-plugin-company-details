@@ -1,0 +1,38 @@
+title: Company Details
+form:
+  validation: loose
+  fields:
+    name:
+      type: text
+      label: PLUGIN_COMPANY_DETAILS.COMPANY_NAME
+    email:
+      type: text
+      label: PLUGIN_COMPANY_DETAILS.EMAIL
+    phone:
+      type: text
+      label: PLUGIN_COMPANY_DETAILS.PHONE
+    fax:
+      type: text
+      label: PLUGIN_COMPANY_DETAILS.FAX
+    address:
+      type: textarea
+      label: PLUGIN_COMPANY_DETAILS.ADDRESS
+    gmaps:
+      type: text
+      label: PLUGIN_COMPANY_DETAILS.GMAPS
+
+    sectionOpening:
+      type: section
+      title: PLUGIN_COMPANY_DETAILS.OPENING_HOURS
+      underline: true
+      fields:
+        opening:
+          type: list
+          label: PLUGIN_COMPANY_DETAILS.OPENING_HOURS
+          fields:
+            .day:
+              type: text
+              label: PLUGIN_COMPANY_DETAILS.OPENING_DAY
+            .time:
+              type: text
+              label: PLUGIN_COMPANY_DETAILS.OPENING_TIME

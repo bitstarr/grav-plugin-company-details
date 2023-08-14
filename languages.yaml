@@ -1,0 +1,25 @@
+en:
+  PLUGIN_COMPANY_DETAILS:
+    PERMISSION_LABEL: Manage Company Details
+    COMPANY_NAME: Company Name
+    EMAIL: Email
+    PHONE: Phone Number
+    FAX: Fax Number
+    ADDRESS: Address
+    GMAPS: Google Maps URL
+    OPENING_HOURS: Opening Hours
+    OPENING_DAY: Day
+    OPENING_TIME: Time Span
+
+de:
+  PLUGIN_COMPANY_DETAILS:
+    PERMISSION_LABEL: Firmeninformationen verwalten
+    COMPANY_NAME: Firmenname
+    EMAIL: E-Mail-Adresse
+    PHONE: Telefonnummer
+    FAX: Faxnummer
+    ADDRESS: Adresse
+    GMAPS: Google Maps URL
+    OPENING_HOURS: Öffnungszeiten
+    OPENING_DAY: Tag
+    OPENING_TIME: Zeitraum
