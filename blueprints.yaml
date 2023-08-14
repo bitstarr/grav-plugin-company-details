@@ -3,7 +3,7 @@ slug: company-details
 type: plugin
 version: 1.0.0
 description: Store and manage company details in the settings for site wide usage
-icon: plug
+icon: address-card
 author:
   name: Sebastian Laube
   email: hello@sebastianlaube.de
