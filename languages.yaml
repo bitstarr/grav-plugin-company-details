@@ -10,6 +10,12 @@ en:
     OPENING_HOURS: Opening Hours
     OPENING_DAY: Day
     OPENING_TIME: Time Span
+    SOCIAL: Social Media
+    SOCIAL_PROFILES: Social Media Profiles
+    SOCIAL_DESCRIPTION: Description
+    SOCIAL_DESCRIPTION_HELP: Will be displayed as a tool tip or read out by a screen reader. Think about something good like -Red Cross at Mastodon-.
+    ICON: Icon
+    URL: URL
 
 de:
   PLUGIN_COMPANY_DETAILS:
@@ -23,3 +29,9 @@ de:
     OPENING_HOURS: Öffnungszeiten
     OPENING_DAY: Tag
     OPENING_TIME: Zeitraum
+    SOCIAL: Social Media
+    SOCIAL_PROFILES: Social Media Profile
+    SOCIAL_DESCRIPTION: Bezeichnung
+    SOCIAL_DESCRIPTION_HELP: Wird als Tooltip angezeigt oder von Screenreadern vorgelesen, denk dir also etwas Gutes aus. z. B. DRK bei Mastodon
+    ICON: Icon
+    URL: URL

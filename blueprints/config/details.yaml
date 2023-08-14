@@ -36,3 +36,23 @@ form:
             .time:
               type: text
               label: PLUGIN_COMPANY_DETAILS.OPENING_TIME
+
+    sectionSocial:
+      type: section
+      title: PLUGIN_COMPANY_DETAILS.SOCIAL
+      underline: true
+      fields:
+        footer.social:
+          type: list
+          label: PLUGIN_COMPANY_DETAILS.SOCIAL_PROFILES
+          fields:
+            .title:
+              type: text
+              label: PLUGIN_COMPANY_DETAILS.SOCIAL_DESCRIPTION
+              help: PLUGIN_COMPANY_DETAILS.SOCIAL_DESCRIPTION_HELP
+            .icon:
+              type: text
+              label: PLUGIN_COMPANY_DETAILS.ICON
+            .url:
+              type: text
+              label: PLUGIN_COMPANY_DETAILS.URL
