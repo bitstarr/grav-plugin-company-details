@@ -42,7 +42,7 @@ form:
       title: PLUGIN_COMPANY_DETAILS.SOCIAL
       underline: true
       fields:
-        footer.social:
+        social:
           type: list
           label: PLUGIN_COMPANY_DETAILS.SOCIAL_PROFILES
           fields:
