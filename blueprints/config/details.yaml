@@ -5,24 +5,31 @@ form:
     company:
       type: text
       label: PLUGIN_COMPANY_DETAILS.COMPANY_NAME
+      autocomplete: off
     name:
       type: text
       label: PLUGIN_COMPANY_DETAILS.PERSON_NAME
+      autocomplete: off
     email:
       type: text
       label: PLUGIN_COMPANY_DETAILS.EMAIL
+      autocomplete: off
     phone:
       type: text
       label: PLUGIN_COMPANY_DETAILS.PHONE
+      autocomplete: off
     fax:
       type: text
       label: PLUGIN_COMPANY_DETAILS.FAX
+      autocomplete: off
     address:
       type: textarea
       label: PLUGIN_COMPANY_DETAILS.ADDRESS
+      autocomplete: off
     gmaps:
       type: text
       label: PLUGIN_COMPANY_DETAILS.GMAPS
+      autocomplete: off
 
     sectionOpening:
       type: section
@@ -36,9 +43,11 @@ form:
             .day:
               type: text
               label: PLUGIN_COMPANY_DETAILS.OPENING_DAY
+              autocomplete: off
             .time:
               type: text
               label: PLUGIN_COMPANY_DETAILS.OPENING_TIME
+              autocomplete: off
 
     sectionSocial:
       type: section
@@ -53,9 +62,12 @@ form:
               type: text
               label: PLUGIN_COMPANY_DETAILS.SOCIAL_DESCRIPTION
               help: PLUGIN_COMPANY_DETAILS.SOCIAL_DESCRIPTION_HELP
+              autocomplete: off
             .icon:
               type: text
               label: PLUGIN_COMPANY_DETAILS.ICON
+              autocomplete: off
             .url:
               type: text
               label: PLUGIN_COMPANY_DETAILS.URL
+              autocomplete: off
