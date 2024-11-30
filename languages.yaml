@@ -2,6 +2,7 @@ en:
   PLUGIN_COMPANY_DETAILS:
     PERMISSION_LABEL: Manage Company Details
     COMPANY_NAME: Company Name
+    PERSON_NAME: Name (Contact person or owner)
     EMAIL: Email
     PHONE: Phone Number
     FAX: Fax Number
@@ -21,6 +22,7 @@ de:
   PLUGIN_COMPANY_DETAILS:
     PERMISSION_LABEL: Firmeninformationen verwalten
     COMPANY_NAME: Firmenname
+    PERSON_NAME: Name (Kontaktperosn oder Inhaber/in)
     EMAIL: E-Mail-Adresse
     PHONE: Telefonnummer
     FAX: Faxnummer

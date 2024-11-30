@@ -2,9 +2,12 @@ title: Company Details
 form:
   validation: loose
   fields:
-    name:
+    company:
       type: text
       label: PLUGIN_COMPANY_DETAILS.COMPANY_NAME
+    name:
+      type: text
+      label: PLUGIN_COMPANY_DETAILS.PERSON_NAME
     email:
       type: text
       label: PLUGIN_COMPANY_DETAILS.EMAIL
